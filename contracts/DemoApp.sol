@@ -2,7 +2,7 @@
 pragma solidity >=0.5.0 <=0.9.0;
 
 contract DemoApp {
-    struct Memo {
+    struct Memo  {
         string name;
         string message;
         uint time;
